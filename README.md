@@ -11,8 +11,8 @@ Objective
 
 Seeking a SOC Tier 1 / Cybersecurity Analyst role to leverage my experience in system administration, log analysis, and security tooling. I aim to contribute to threat detection, incident response, and automation initiatives while further developing advanced SOC operational expertise.
 
-# Skills
-
+| Skill                                         | Associated Project / Experience |
+|-----------------------------------------------|---------------------------------|
 | SIEM Fundamentals / Log Analysis               | Splunk SIEM Home Lab (Log Analysis + Alerts) |
 | Security Monitoring Concepts                   | SOC Core Skills Training Lab (Antisyphon) |
 | MITRE ATT&CK Framework Knowledge               | MITRE ATT&CK Threat Mapping Exercises |
