@@ -13,19 +13,17 @@ Seeking a SOC Tier 1 / Cybersecurity Analyst role to leverage my experience in s
 
 # Skills
 
-| Skill                                         | Associated Project / Experience |
-|-----------------------------------------------|---------------------------------|
-| SIEM Fundamentals / Log Analysis               | Splunk Learning + SIEM Practice Labs |
-| Security Monitoring Concepts                   | SOC Core Skills (Antisyphon) Training |
-| MITRE ATT&CK Framework Knowledge               | Foundations of Operationalizing MITRE ATT&CK |
-| Virtualization / Active Directory Lab Setup    | VMware Lab (Domain Controllers) |
-| Splunk Setup and Testing in Lab Environment    | VMware Lab (Splunk Deployment) |
-| Bash Scripting and Log Automation              | Bash Log Analysis Automation Scripts |
-| PowerShell Scripting for Admin Tasks           | PowerShell Automation / Reporting |
-| Python Scripting Fundamentals                  | Python Security & Automation Practice |
-| Networking Fundamentals                        | Cisco Networking Essentials |
-| Cloud Fundamentals (AWS)                       | AWS Academy Cloud Foundations |
-| Cloud Exposure (Azure)                         | Azure Lab Learning / Fundamentals Practice |
+| SIEM Fundamentals / Log Analysis               | Splunk SIEM Home Lab (Log Analysis + Alerts) |
+| Security Monitoring Concepts                   | SOC Core Skills Training Lab (Antisyphon) |
+| MITRE ATT&CK Framework Knowledge               | MITRE ATT&CK Threat Mapping Exercises |
+| Virtualization / Active Directory Lab Setup    | VMware Active Directory Domain Lab |
+| Splunk Setup and Testing in Lab Environment    | Splunk Deployment + Testing in VMware Lab |
+| Bash Scripting and Log Automation              | Bash Log Analysis Automation Toolkit |
+| PowerShell Scripting for Admin Tasks           | PowerShell Admin Automation Scripts |
+| Python Scripting Fundamentals                  | Python Security Automation Practice Scripts |
+| Networking Fundamentals                         | Networking Fundamentals Lab (Cisco Essentials) |
+| Cloud Fundamentals (AWS)                       | AWS Cloud Foundations Lab (AWS Academy) |
+| Cloud Exposure (Azure)                         | Microsoft Azure Fundamentals Lab Environment |
 
 ## Projects
 
