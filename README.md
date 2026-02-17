@@ -4,7 +4,8 @@
 
 Introduction
 
-I am a Systems Administrator with experience supporting DoD environments and a strong interest in cybersecurity. I have hands-on experience with system administration, log analysis, virtualization labs, and automation using scripting tools. I am actively working toward transitioning into a Security Operations Center (SOC) role.
+I am a Marine Corps veteran and Systems Administrator with over 3 years of experience supporting DoD environments. I have hands-on in system administration, log analysis, virtualization labs, and automation using Bash, PowerShell, and Python. I am actively transitioning into a Security Operations Center (SOC) role to leverage my technical skills and operational experience in cybersecurity.
+
 
 Objective
 
@@ -22,7 +23,7 @@ Seeking a SOC Tier 1 / Cybersecurity Analyst role to leverage my experience in s
 | Bash Scripting and Log Automation              | Bash Log Analysis Automation Scripts |
 | PowerShell Scripting for Admin Tasks           | PowerShell Automation / Reporting |
 | Python Scripting Fundamentals                  | Python Security & Automation Practice |
-| Networking Fundamentals                         | Cisco Networking Essentials |
+| Networking Fundamentals                        | Cisco Networking Essentials |
 | Cloud Fundamentals (AWS)                       | AWS Academy Cloud Foundations |
 | Cloud Exposure (Azure)                         | Azure Lab Learning / Fundamentals Practice |
 
